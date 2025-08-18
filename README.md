@@ -1,4 +1,4 @@
-# FreshCart-Marketing-Analytics-Optimization
+# FreshCart Marketing Analytics Optimization
 <iframe title="FRESH CART PROJECT" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzcyNDE2MDYtODk0MS00MmI4LTljMWMtNjI2Njk5Mzc0NTNmIiwidCI6IjM0YTkxMjU3LWU1NzctNDliNi05ZmQ3LTJmNjNmNzMzMDRhYyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Project Overview
