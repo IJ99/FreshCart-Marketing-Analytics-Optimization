@@ -21,7 +21,7 @@ Assess demography engagement and conversion rates.
 Recommend strategies for better budget allocation.
 
 ## Data Source
-The analysis was performed on an Excel file containing historical ad campaign data provided by FreshCart's Marketing team.
+The analysis was performed on an Excel file containing  ad campaign data provided by FreshCart's Marketing team.
 
 ## Data Attributes:
 
