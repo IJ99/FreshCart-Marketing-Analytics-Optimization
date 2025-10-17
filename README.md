@@ -80,9 +80,9 @@ This page provides a high-level overview for a quick understanding of overall pe
 
 KPI Cards: Prominent cards displaying the key metrics, showing a high ROI of 3.42, indicating that for every $1 spent, FreshCart earned $3.42 in revenue.
 
-'Ad Funnel Performance': A funnel chart that visually exposes a critical issue: a high volume of 23 million impressions with a near-zero conversion rate. This indicates a significant drop-off from exposure to customer action, highlighting a need for immediate optimization of ad creatives and targeting.
+Ad Funnel Performance: A funnel chart that visually exposes a critical issue: a high volume of 23 million impressions with a near-zero conversion rate. This indicates a significant drop-off from exposure to customer action, highlighting a need for immediate optimization of ad creatives and targeting.
 
-"ROI by Year, Quarter, Month and Day": A line chart tracking ROI fluctuations over time, showing performance peaks and valleys. This suggests ad performance is not consistent and may be influenced by seasonality or specific campaigns.
+ROI by Year, Quarter, Month and Day: A line chart tracking ROI fluctuations over time, showing performance peaks and valleys. This suggests ad performance is not consistent and may be influenced by seasonality or specific campaigns.
 
 2. Channel Performance
 This page allows for a detailed analysis of individual platforms and campaigns.
